@@ -94,7 +94,7 @@ Los bocetos los he realizado para web como se pedía en el enunciado del trabajo
 - Contactanos: Se muestran las redes de las que dispone la empresa y una pequeña sección de contacto.
 
 
-![Bocetos](bocetos.png)
+![Bocetos](bocetos-workandmeet.pdf)
 
 3.b Logotipo
 ----

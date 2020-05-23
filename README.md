@@ -16,7 +16,7 @@ En este trabajo voy a analizar espacio de coworking en Granada, ErranT, este esp
 
 1.Usability Review
 ----
-Enlace al documento: ![UsabilityReview] (Usability-review-template.pdf)
+Enlace al documento: ![UsabilityReview](Usability-review-template.xlsx)
 
 Valoración final: 65/100
 
@@ -107,10 +107,10 @@ Para la creación del logo he usado un sitio web que te permite realizar logos d
 Como tipografía principal de la web he decido optar por una tipografía que ya he empleado en las prácticas pero creo que es ideal para este tipo de webs, ya que se trata de una fuente moderna, sencilla y perfectamente legible. Esta fuente es Roboto. Roboto es una fuente de uso libre de Google Fonts. Esta tipografía la podemos combinar con otra tipografía como por ejemplo Open Sans, la cual es también muy utilizada, de uso libre y desarrollada por Google Fonts. Por tanto como tipografía principal empleamos Roboto y como tipografía secundaria Open Sans. Respecto al tamaño de fuente hemos decidido seguir los estándares, para Roboto se recomienda usar un tamaño de 14-18px para el contenido principal mientras que para las cabeceras un tamaño de 28-34px. Respecto a Open Sans también seguimos los estándares, es decir, utilizar un tamaño de 12-16px para contenidos principales y un tamaño de 24-30px para cabeceras. A continuación adjunto un par de imágenes de cada tipo de fuente:
 
 Roboto:
-![Roboto](roboto.png) 
+![Roboto](tipografia_primaria.png) 
 
 Open Sans:
-![Open Sans](roboto.png) 
+![Open Sans](tipografia_secundaria.png) 
 
 -Fuente de las imágenes: https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e
 

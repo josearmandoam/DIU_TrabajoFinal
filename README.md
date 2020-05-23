@@ -7,25 +7,35 @@ Jose Armando Albarado Mamani
 ----- 
 
 Pequeña descripción del Coworking
+-----
+
 El coworking es una técnica de trabajo que ha adquirido bastante importancia en estos últimos años, en españa hay más de 500 registrados, y en Europa hay alrededor de 1600 espacios dedicados al coworking. Pero claro, ¿Qué es el coworking?
 El coworking es una técnica de trabajo en la que en un determinado espacio se dan cita profesionales de cualquier ámbito. En este espacio de coworking existe gestores que se encargan de conectar y crear oportunidades profesionales y personales entre cada uno de sus miembros. El objetivo principal del coworking es que los profesionales puedan compartir entre ellos conocimientos e incluso trabajar juntos en proyectos que surjan.
 
 En este trabajo voy a analizar espacio de coworking en Granada, ErranT, este espacio de coworking dispone de una página web https://www.errant.es/es/, esta página será el objetivo del análisis y como consecuencia del análisis realizado procederé a proprocionar un rediseño de ella.
 
-![Método UX](img/usabilityReview.png) 
 1.Usability Review
 ----
-Enlace al documento: [UsabilityReview] (Usability-review-template.xlsx)
+Enlace al documento: ![UsabilityReview] (Usability-review-template.xlsx)
+
 Valoración final: 65/100
+
 Comentario sobre la valoración:
+
 Después de valorar cada apartado de la plantilla y tras comentar los peores apartados de la web, la puntuación final es de 65/100, lo cual hace un aprobado. La justificación de esta nota es que en general esta web está bien estructurada y clara, aunque tiene algunos problemas los cuales son importantes, como por ejemplo la falta de una sección de ayuda en la página, la página principal llama poco la atención a un cliente que puede entrar con espectativas de encontrar un ambiente amigable y sociable. Por otro lado, otro de los grandes problemas es que no se pueden obtener tarifas de forma online, si no que debes ir al apartado de contacto y rellenar un formulario indicando que quiere obtener una tarifa, hoy en día este aspecto ha adquirido gran importancia ya que normalmente casi todo se puede realizar de forma electrónica, es por ellos, que sin lugar a duda se debe impelementar que las tarifas se puedan obtener mediante la web de forma electronica. En general, la página principal contiene poca información que pueda llamar la atención de un usuario, añadir imágenes o videos que reflejen el buen ambiente de trabajo en el lugar sería algo que sin lugar a duda atraería la atención de los usuarios.
 
 
 ## Paso 2. UX Design 
-![Método UX](feedback_capture_grid.png) 
+
 2.a Feedback Capture Grid
-----
+-----
+
+![FeedBack](feedback_capture_grid.png) 
+
+
 2.b Propuesta de valor
+-----
+
 Mi propuesta de rediseño para esta página consta de varias partes:
 
 1.- Dar un toque más moderno a la página: La página en general da la sensación de que se ha realizado en un momento dado y no se ha vuelto a realizar modificaciones en ella, es por ello que pretendo introducir más información en la página principal, como un carrusel de imagenes, organizar la información que hay en ella de otra forma, reducir el tamaño del mapa, etc. Con el objetivo de atraer la atención de cualquier usuario que visite nuestra página por primera vez.
@@ -38,10 +48,13 @@ Mi propuesta de rediseño para esta página consta de varias partes:
 
 5.- Cumplir con los requisitos mínimos de W2G: Disponer de una sección de Accesibilidad indicando que nuestra página cumple los requsitos mínimos para que se pueda navegar aún con algunos problemas de salud o problemas de otro tipo.
 
-![Método UX](sitemap.png) 
+![MSite Map](sitemap.png) 
+
+
 2.b Tasks & Sitemap 
 -----
 En el sitemap he introducida varias de las páginas que introduciría en un remodelado de la web:
+
 1.- En la sección "Espacio Errant" se almacenará las gestiones tanto de alquiler como la de obtener una tarifa.
 2.- En la sección "Proyectos" se introducirán aquellos proyectos que se estén en proceso de desarrollo o aquellos proyectos que ya se han finalizado como "La Pecera comunicación".
 3.- En la sección "Como llegar" será una página que contendrá un mapa con el que el usuario podrá interactuar para poder trasladorlo a su dispositivo movil o para moverse en el. Obviamente en el mapa debe estar marcada la posición de nuestra en la ciudad, para que el usuario sepa como llegar.
@@ -50,26 +63,18 @@ En el sitemap he introducida varias de las páginas que introduciría en un remo
 6.- En la sección "Sobre nosotros" se añadirá información acerca de la empresa, las personas que trabajan ahí, información acerca del fundador, etc.
 7.- En la sección "Contáctanos" se añadirá un formulario para que el usuario que desee pueda contactarnos a través de este formulario, además se indicarán todas nuestras redes sociales disponibles para que el usuario pueda visitarlas. Es importante por tanto ser activo en las redes sociales para mostrar a los usuarios que somos activos y añadimos contenido acerca de las instalaciones, etc.
 
-![](matriz_tareas.png)
+![Matriz de tareas](matriz_tareas.png)
 
 
-![Método UX](img/labelling.png) 
 2.c Labelling 
 ----
 Como se trata el rediseño de la web, cada una de las secciones del labelling hace referencia a las secciones disponibles en la barra de navegación, por tanto, no es necesario introducirlas como iconos ya que será su nombre completo. De todas formas en caso de que necesite algunos iconos para representar cada una de las secciones optaría por iconos standar, para que al usuario les resulte familiar.
 
-![](labelling_t.png) 
+![Labelling](labelling_t.png) 
 
-
-![Método UX](img/Wireframes.png) 
 
 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
-
-## Paso 3. Make (Prototyping) 
 
 Los bocetos los he realizado para web como se pedía en el enunciado del trabajo, en ella explico como seria cada una de las ventanas de las que está formada la página workandmeet, por tanto son varias partes:
 
@@ -81,15 +86,18 @@ Los bocetos los he realizado para web como se pedía en el enunciado del trabajo
 - Ayuda: En la página se detallan ayudas en la navegación y se añaden algunas preguntas frecuentes con sus respectivas respuestas, además se incluye una sección de contacto al final de la página.
 - Sobre nosotros: Información de la compañía y una sección de contacto por si el usuario tiene algún tipo de duda.
 - Contactanos: Se muestran las redes de las que dispone la empresa y una pequeña sección de contacto.
+
+
 ![Bocetos](bocetos.png)
 
 3.b Logotipo
 ----
-![](logo.png)
+![Logotipo](logo.png)
+
 Para la creación del logo he usado un sitio web que te permite realizar logos de forma gratuita, esta página es https://logo.e.jimdo.com
 
-![Método UX](img/guidelines.png) 
 3.c Guidelines
+-----
 Como tipografía principal de la web he decido optar por una tipografía que ya he empleado en las prácticas pero creo que es ideal para este tipo de webs, ya que se trata de una fuente moderna, sencilla y perfectamente legible. Esta fuente es Roboto. Roboto es una fuente de uso libre de Google Fonts. Esta tipografía la podemos combinar con otra tipografía como por ejemplo Open Sans, la cual es también muy utilizada, de uso libre y desarrollada por Google Fonts. Por tanto como tipografía principal empleamos Roboto y como tipografía secundaria Open Sans. Respecto al tamaño de fuente hemos decidido seguir los estándares, para Roboto se recomienda usar un tamaño de 14-18px para el contenido principal mientras que para las cabeceras un tamaño de 28-34px. Respecto a Open Sans también seguimos los estándares, es decir, utilizar un tamaño de 12-16px para contenidos principales y un tamaño de 24-30px para cabeceras. A continuación adjunto un par de imágenes de cada tipo de fuente:
 
 Roboto:

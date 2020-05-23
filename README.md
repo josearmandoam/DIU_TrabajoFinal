@@ -56,11 +56,17 @@ Mi propuesta de rediseño para esta página consta de varias partes:
 En el sitemap he introducida varias de las páginas que introduciría en un remodelado de la web:
 
 1.- En la sección "Espacio Errant" se almacenará las gestiones tanto de alquiler como la de obtener una tarifa.
+
 2.- En la sección "Proyectos" se introducirán aquellos proyectos que se estén en proceso de desarrollo o aquellos proyectos que ya se han finalizado como "La Pecera comunicación".
+
 3.- En la sección "Como llegar" será una página que contendrá un mapa con el que el usuario podrá interactuar para poder trasladorlo a su dispositivo movil o para moverse en el. Obviamente en el mapa debe estar marcada la posición de nuestra en la ciudad, para que el usuario sepa como llegar.
+
 4.- En la sección "Blog" se añadirán esperiencias de los usuarios que han estado en nuestras instalaciones, cada sección de blog debe contener una foto de la persona y el comentario que realiza sobre la experiencia que ha tenido en nuestras instalaciones. De esta forma los demás usuarios que nunca han estado en nuestras instalaciones podrán comprobar experiencias de otros usuarios y así anirmarse a probar.
+
 5.- En la sección de "Ayuda" se añadirá información que ayudará al usuario a navegar por nuestra web, e incluso algunas preguntas frecuentes con sus respectivas respuestas.
+
 6.- En la sección "Sobre nosotros" se añadirá información acerca de la empresa, las personas que trabajan ahí, información acerca del fundador, etc.
+
 7.- En la sección "Contáctanos" se añadirá un formulario para que el usuario que desee pueda contactarnos a través de este formulario, además se indicarán todas nuestras redes sociales disponibles para que el usuario pueda visitarlas. Es importante por tanto ser activo en las redes sociales para mostrar a los usuarios que somos activos y añadimos contenido acerca de las instalaciones, etc.
 
 ![Matriz de tareas](matriz_tareas.png)

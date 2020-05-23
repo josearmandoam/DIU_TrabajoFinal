@@ -16,7 +16,7 @@ En este trabajo voy a analizar espacio de coworking en Granada, ErranT, este esp
 
 1.Usability Review
 ----
-Enlace al documento: ![UsabilityReview] (Usability-review-template.xlsx)
+Enlace al documento: ![UsabilityReview] (Usability-review-template.pdf)
 
 Valoración final: 65/100
 
@@ -98,7 +98,7 @@ Los bocetos los he realizado para web como se pedía en el enunciado del trabajo
 
 3.b Logotipo
 ----
-![Logotipo](logo.png)
+![Logotipo](logo_large.png)
 
 Para la creación del logo he usado un sitio web que te permite realizar logos de forma gratuita, esta página es https://logo.e.jimdo.com
 
